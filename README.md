@@ -1,1 +1,1 @@
-# Object-centric-Image-recognition-DL-task-
+# Object-centric-Image-recognition-DL
